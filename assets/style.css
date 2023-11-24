@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #292712;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -243,9 +243,7 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
-.active-tag{
-	background-color: #BEB45A;
-}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
