@@ -90,10 +90,6 @@ body {
 	width: 80%;
 	font-size: 14px;
 }
-
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -126,6 +122,10 @@ body {
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
+}
+.gallery img {
+	width: 440px;
+	height:440px;
 }
 .mg-prev, .mg-next {
 	width: 30px;
