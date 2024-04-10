@@ -44,5 +44,3 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment voir le rendu hébergé
 
-1. suivez ce lien github pages https://github.com/JulienPicaud/OC_P5_Nina-Carducci.git
-2. suivez ce lien vers clouflare https://portfolio-nina-carducci.pages.dev/
