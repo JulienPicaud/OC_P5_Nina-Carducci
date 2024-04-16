@@ -42,5 +42,6 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 2. Clonez le repository : entrer git clone `git clone https://github.com/JulienPicaud/OC_P5_Nina-Carducci.git`
 3. Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le portfolio localement.
 
-## Comment voir le rendu hébergé
+## Voir le rendu hébergé
 
+https://julienpicaud.github.io/OC_P5_Nina-Carducci/
